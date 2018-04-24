@@ -1,0 +1,9 @@
+c:\users\aquaioux\documents\visual studio 2015\Projects\WcfService5\WcfService5\bin\WcfService5.dll.config
+c:\users\aquaioux\documents\visual studio 2015\Projects\WcfService5\WcfService5\bin\WcfService5.dll
+c:\users\aquaioux\documents\visual studio 2015\Projects\WcfService5\WcfService5\bin\WcfService5.pdb
+c:\users\aquaioux\documents\visual studio 2015\Projects\WcfService5\WcfService5\obj\Debug\WcfService5.csprojResolveAssemblyReference.cache
+c:\users\aquaioux\documents\visual studio 2015\Projects\WcfService5\WcfService5\obj\Debug\WcfService5.dll
+c:\users\aquaioux\documents\visual studio 2015\Projects\WcfService5\WcfService5\obj\Debug\WcfService5.pdb
+C:\Users\AquaiouX\Downloads\WcfService5\WcfService5\obj\Debug\WcfService5.csprojResolveAssemblyReference.cache
+C:\Users\AquaiouX\Downloads\WcfService5\WcfService5\obj\Debug\WcfService5.dll
+C:\Users\AquaiouX\Downloads\WcfService5\WcfService5\obj\Debug\WcfService5.pdb

@@ -1,0 +1,10 @@
+c:\users\aquaioux\documents\visual studio 2015\Projects\aAdmin\aAdmin\bin\Debug\aAdmin.exe.config
+c:\users\aquaioux\documents\visual studio 2015\Projects\aAdmin\aAdmin\bin\Debug\aAdmin.exe
+c:\users\aquaioux\documents\visual studio 2015\Projects\aAdmin\aAdmin\bin\Debug\aAdmin.pdb
+c:\users\aquaioux\documents\visual studio 2015\Projects\aAdmin\aAdmin\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\aquaioux\documents\visual studio 2015\Projects\aAdmin\aAdmin\obj\Debug\aAdmin.csprojResolveAssemblyReference.cache
+c:\users\aquaioux\documents\visual studio 2015\Projects\aAdmin\aAdmin\obj\Debug\aAdmin.Form1.resources
+c:\users\aquaioux\documents\visual studio 2015\Projects\aAdmin\aAdmin\obj\Debug\aAdmin.Properties.Resources.resources
+c:\users\aquaioux\documents\visual studio 2015\Projects\aAdmin\aAdmin\obj\Debug\aAdmin.csproj.GenerateResource.Cache
+c:\users\aquaioux\documents\visual studio 2015\Projects\aAdmin\aAdmin\obj\Debug\aAdmin.exe
+c:\users\aquaioux\documents\visual studio 2015\Projects\aAdmin\aAdmin\obj\Debug\aAdmin.pdb

@@ -8,3 +8,12 @@ c:\users\aquaioux\documents\visual studio 2015\Projects\aAdmin\aAdmin\obj\Debug\
 c:\users\aquaioux\documents\visual studio 2015\Projects\aAdmin\aAdmin\obj\Debug\aAdmin.csproj.GenerateResource.Cache
 c:\users\aquaioux\documents\visual studio 2015\Projects\aAdmin\aAdmin\obj\Debug\aAdmin.exe
 c:\users\aquaioux\documents\visual studio 2015\Projects\aAdmin\aAdmin\obj\Debug\aAdmin.pdb
+C:\Users\AquaiouX\Desktop\empty2\aAdmin\aAdmin\bin\Debug\aAdmin.exe.config
+C:\Users\AquaiouX\Desktop\empty2\aAdmin\aAdmin\obj\Debug\aAdmin.exe
+C:\Users\AquaiouX\Desktop\empty2\aAdmin\aAdmin\obj\Debug\aAdmin.pdb
+C:\Users\AquaiouX\Desktop\empty2\aAdmin\aAdmin\bin\Debug\aAdmin.exe
+C:\Users\AquaiouX\Desktop\empty2\aAdmin\aAdmin\bin\Debug\aAdmin.pdb
+C:\Users\AquaiouX\Desktop\empty2\aAdmin\aAdmin\obj\Debug\aAdmin.csprojResolveAssemblyReference.cache
+C:\Users\AquaiouX\Desktop\empty2\aAdmin\aAdmin\obj\Debug\aAdmin.Form1.resources
+C:\Users\AquaiouX\Desktop\empty2\aAdmin\aAdmin\obj\Debug\aAdmin.Properties.Resources.resources
+C:\Users\AquaiouX\Desktop\empty2\aAdmin\aAdmin\obj\Debug\aAdmin.csproj.GenerateResource.Cache

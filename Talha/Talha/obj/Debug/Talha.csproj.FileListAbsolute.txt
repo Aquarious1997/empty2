@@ -1,0 +1,10 @@
+c:\users\huzaifa\documents\visual studio 2015\Projects\Talha\Talha\bin\Debug\Talha.exe.config
+C:\Users\Huzaifa\Documents\Visual Studio 2015\Projects\Talha\Talha\bin\Debug\Talha.exe
+C:\Users\Huzaifa\Documents\Visual Studio 2015\Projects\Talha\Talha\bin\Debug\Talha.pdb
+C:\Users\Huzaifa\Documents\Visual Studio 2015\Projects\Talha\Talha\obj\Debug\Talha.csprojResolveAssemblyReference.cache
+C:\Users\Huzaifa\Documents\Visual Studio 2015\Projects\Talha\Talha\obj\Debug\Talha.Form1.resources
+C:\Users\Huzaifa\Documents\Visual Studio 2015\Projects\Talha\Talha\obj\Debug\Talha.Properties.Resources.resources
+C:\Users\Huzaifa\Documents\Visual Studio 2015\Projects\Talha\Talha\obj\Debug\Talha.csproj.GenerateResource.Cache
+C:\Users\Huzaifa\Documents\Visual Studio 2015\Projects\Talha\Talha\obj\Debug\Talha.exe
+C:\Users\Huzaifa\Documents\Visual Studio 2015\Projects\Talha\Talha\obj\Debug\Talha.pdb
+C:\Users\Huzaifa\Documents\Visual Studio 2015\Projects\Talha\Talha\obj\Debug\Talha.Form2.resources
